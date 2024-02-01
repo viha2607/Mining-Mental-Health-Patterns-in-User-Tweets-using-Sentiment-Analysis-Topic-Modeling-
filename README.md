@@ -1,3 +1,4 @@
+## Mining Mental Health Patterns in User Tweets and Resource Allocation using Sentiment Analysis, Topic Modeling and Transfer Learning 
 In the era of digital communication, Twitter serves as a rich source of unfiltered user-generated content. 
 Our text mining project, rooted in the Sentiment140 dataset comprising 1.6 million tweets, initially 
 navigated the unstructured terrain of tweets without specific domains. As researchers, our objective was to 
